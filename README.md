@@ -1,3 +1,3 @@
 # Ecoleta
-Project developed at Rocketseat Next Level Week.
+Um marketplace de coleta de resíduos, desenvolvido na Next Level Week da Rocketseat
 

@@ -21,7 +21,6 @@
 - [Documentação](#documentacao)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Usar](#como-usar)
-- [Como Contribuir](#como-contribuir)
 
 <a id="sobre"></a>
 
@@ -94,19 +93,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
   $ cd mobile
   $ npm start
 ```
-
-<a id="como-contribuir"></a>
-
-## :recycle: Como contribuir
-
-- Faça um Fork desse repositório,
-- Crie uma branch com a sua feature: `git checkout -b my-feature`
-- Commit suas mudanças: `git commit -m 'feat: My new feature'`
-- Push a sua branch: `git push origin my-feature`
-
-## :mortar_board: Quem ministrou?
-
-As aulas foram ministradas pelo mestre **[Diego Fernandes](https://github.com/diego3g)** nas aulas da **Next Level Week**.
 
 ## :memo: License
 
